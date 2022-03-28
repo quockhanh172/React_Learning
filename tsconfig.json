@@ -6,6 +6,7 @@
       "watch": true
     },
     "files": [
-        "ts/functionts/functionreturn.ts"
+        "ts/functionts/functionreturn.ts",
+        "ts/functionts/oop-ts.ts"
     ]
 }
